@@ -156,32 +156,6 @@ This frontend communicates with the Social Feed REST API developed in **Golang**
 
 ---
 
-## 📸 Screenshots
-
-You can add screenshots here.
-
-```
-screenshots/
-    login.png
-    register.png
-    feed.png
-    create-post.png
-```
-
-Example:
-
-```md
-## Login
-
-![Login](screenshots/login.png)
-
-## Feed
-
-![Feed](screenshots/feed.png)
-```
-
----
-
 ## 📖 API Integration
 
 The frontend consumes REST APIs for:
